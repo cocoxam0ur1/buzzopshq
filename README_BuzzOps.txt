@@ -3,7 +3,7 @@
 BuzzOps HQ is a lightweight, Facebook-focused social media scheduler and analytics dashboard built for small businesses like Chalk Talk with Angela.
 
 ## 💡 Features
-- Schedule Facebook posts via calendar input
+- Schedule posts via calendar input
 - Archive and view post history
 - Log engagement metrics (likes, comments, shares)
 - View engagement history and analytics charts
@@ -48,6 +48,6 @@ Copy `buzzops.db` to the same directory as the executable.
 Visualizes likes, comments, and shares for up to 5 recent posts using a stacked bar chart.
 
 ## 📞 Contact
-Built by Team BuzzOps (Coco Sidock, Timothy Smith, Tuyet Nguyen)
+Built by Team BuzzOps (Coco Sidock and Timothy Smith)
 
 Sponsor: Angela Sidock — Chalk Talk with Angela
